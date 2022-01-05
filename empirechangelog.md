@@ -296,3 +296,7 @@ Performance verbessert
 New Anti-Cheat
 
 AC Settings
+
+Fix Adminpermissions 
+
+remove admin carspawn permissions
