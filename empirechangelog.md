@@ -291,12 +291,8 @@ Ic-support System eingefügt
 
 Performance verbessert
 
-Neues Anti-Cheat
+# 05.01.2022
 
-AC settings
+New Anti-Cheat
 
-# 05.01.2022 
-
-Neues Anti-Cheat 
-
-AC settings
+AC Settings
