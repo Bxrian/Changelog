@@ -297,4 +297,6 @@ AC settings
 
 # 05.01.2022 
 
-Test123
+Neues Anti-Cheat 
+
+AC settings
